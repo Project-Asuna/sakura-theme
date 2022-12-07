@@ -4,6 +4,6 @@ fi
 
 export ZSH="$HOME/.oh-my-zsh"
 
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
-export PATH="~/.local/bin/$PATH"
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
