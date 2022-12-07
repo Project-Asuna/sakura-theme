@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/rodney/.gtkrc-2.0.mine"
-gtk-theme-name="Sakura-Pink-Dark"
+gtk-theme-name="Orchis-Pink-Dark"
 gtk-icon-theme-name="Papirus-Dark"
 gtk-font-name="Cantarell 11"
 gtk-cursor-theme-size=0
